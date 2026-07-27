@@ -1,0 +1,39 @@
+{
+  "name": "tokyo-nightlife",
+  "displayName": "Tokyo Nightlife",
+  "description": "A dark theme for Visual Studio Code inspired by Tokyo Night focused on readability.",
+  "version": "0.0.1",
+  "publisher": "mambroz27",
+  "license": "MIT",
+  "keywords": [
+    "theme",
+    "dark",
+    "tokyo",
+    "contrast",
+    "readability"
+  ],
+  "homepage": "https://github.com/mambroz27/tokyo-nightlife",
+  "repository": {
+    "url": "https://github.com/mambroz27/tokyo-nightlife",
+    "type": "git"
+  },
+  "engines": {
+    "vscode": "^1.125.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tokyo Nightlife",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tokyo-nightlife-color-theme.json"
+      }
+    ]
+  },
+  "scripts": {
+    "package:pre-release": "vsce package --pre-release",
+    "package": "vsce package"
+  }
+}
