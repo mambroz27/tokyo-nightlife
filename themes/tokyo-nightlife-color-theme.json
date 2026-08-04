@@ -926,7 +926,7 @@
 		"property.defaultLibrary": "#2ac3de",
 		"*.defaultLibrary": "#2ac3de",
 		"variable.defaultLibrary": "#2ac3de",
-		"variable.declaration": "#bb9af7",
+		"variable.declaration": "#c0caf5",
 		"variable": "#c0caf5"
 	}
 }
