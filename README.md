@@ -1,8 +1,8 @@
 # Tokyo Nightlife
 
 [![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://vscode.dev/theme/mambroz27.tokyo-nightlife/Tokyo%20Nightlife)
-![GitHub package.json version](https://img.shields.io/github/package-json/v/mambroz27/tokyo-nightlife/main?style=flat)
-![GitHub License](https://img.shields.io/github/license/mambroz27/tokyo-nightlife?style=flat)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/tokyo-nightlife/tokyo-nightlife-vscode-theme/main?style=flat)
+![GitHub License](https://img.shields.io/github/license/tokyo-nightlife/tokyo-nightlife-vscode-theme?style=flat)
 
 A dark theme for Visual Studio Code inspired by [Tokyo Night](https://github.com/tokyo-night/tokyo-night-vscode-theme), built around readability.
 
@@ -23,11 +23,11 @@ A dark theme for Visual Studio Code inspired by [Tokyo Night](https://github.com
 
 ### Tokyo Nightlife
 
-![Screenshot of Tokyo Nightlife - TSX](https://raw.githubusercontent.com/mambroz27/tokyo-nightlife/main/assets/screenshot-tokyo-nightlife-tsx.png)
+![Screenshot of Tokyo Nightlife - TSX](https://raw.githubusercontent.com/tokyo-nightlife/tokyo-nightlife-vscode-theme/main/assets/screenshot-tokyo-nightlife-tsx.png)
 
-![Screenshot of Tokyo Nightlife - CSS](https://raw.githubusercontent.com/mambroz27/tokyo-nightlife/main/assets/screenshot-tokyo-nightlife-css.png)
+![Screenshot of Tokyo Nightlife - CSS](https://raw.githubusercontent.com/tokyo-nightlife/tokyo-nightlife-vscode-theme/main/assets/screenshot-tokyo-nightlife-css.png)
 
-![Screenshot of Tokyo Nightlife - PHP](https://raw.githubusercontent.com/mambroz27/tokyo-nightlife/main/assets/screenshot-tokyo-nightlife-php.png)
+![Screenshot of Tokyo Nightlife - PHP](https://raw.githubusercontent.com/tokyo-nightlife/tokyo-nightlife-vscode-theme/main/assets/screenshot-tokyo-nightlife-php.png)
 
 </details>
 
@@ -157,7 +157,7 @@ The palette was chosen to balance contrast and readability. Two principles guide
 
 ## Contributing
 
-Issues and pull requests are welcome - see the [issue tracker](https://github.com/mambroz27/tokyo-nightlife/issues) to report a scope that renders incorrectly or looks off, or to suggest a new language/plugin scope to support.
+Issues and pull requests are welcome - see the [issue tracker](https://github.com/tokyo-nightlife/tokyo-nightlife-vscode-theme/issues) to report a scope that renders incorrectly or looks off, or to suggest a new language/plugin scope to support.
 
 ## License
 

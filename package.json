@@ -2,7 +2,7 @@
   "name": "tokyo-nightlife",
   "displayName": "Tokyo Nightlife",
   "description": "A dark theme for Visual Studio Code inspired by Tokyo Night focused on readability.",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "publisher": "mambroz27",
   "license": "MIT",
   "keywords": [
@@ -13,13 +13,13 @@
     "readability"
   ],
   "icon": "icon.png",
-  "homepage": "https://github.com/mambroz27/tokyo-nightlife",
+  "homepage": "https://github.com/tokyo-nightlife/tokyo-nightlife-vscode-theme",
   "repository": {
-    "url": "https://github.com/mambroz27/tokyo-nightlife",
+    "url": "https://github.com/tokyo-nightlife/tokyo-nightlife-vscode-theme",
     "type": "git"
   },
   "bugs": {
-    "url": "https://github.com/mambroz27/tokyo-nightlife/issues"
+    "url": "https://github.com/tokyo-nightlife/tokyo-nightlife-vscode-theme/issues"
   },
   "galleryBanner": {
     "color": "#1A1B26",

@@ -5,6 +5,16 @@ All notable changes to the "Tokyo Nightlife" theme will be documented in this fi
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.0.5] - 2026-08-05
+
+### Changed
+
+- Transferred repository ownership to the "tokyo-nightlife" organization on GitHub for better project management and collaboration.
+- Updated links as necessary to reflect the new repository location and ownership, ensuring that all references point to the correct GitHub organization and repository.
+- Fixed default-library method/function calls rendering in a single color. Now `method.defaultLibrary` and `function.defaultLibrary` now use the theme's function color (
+  #7AA2F7) instead of silently falling through to the `*.defaultLibrary` wildcard, which was set to the same cyan (
+  #2AC3DE) as `variable.defaultLibrary`.
+
 ## [0.0.4] - 2026-08-03
 
 ### Changed
