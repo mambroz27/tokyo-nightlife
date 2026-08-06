@@ -924,6 +924,8 @@
 		"property.declaration": "#7dcfff",
 		"property": "#7dcfff",
 		"property.defaultLibrary": "#2ac3de",
+		"method.defaultLibrary": "#7aa2f7",
+		"function.defaultLibrary": "#7aa2f7",
 		"*.defaultLibrary": "#2ac3de",
 		"variable.defaultLibrary": "#2ac3de",
 		"variable.declaration": "#c0caf5",
